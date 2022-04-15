@@ -22,8 +22,7 @@
 .textosHeader {
     display: flex;
     justify-content: space-between;
-    font-size: 170%;
-    margin-right: 3%;
+    font-size: 140%;
     margin-top: 3%;
     width: 45%;
     font-weight: 600;
@@ -33,6 +32,7 @@
 .texto1Header {
   color: var(--color3);
   cursor: pointer;
+  margin-left: 1%
 }
 
 .texto2Header {
@@ -43,6 +43,7 @@
 .texto3Header {
     color: var(--color3);
     cursor: pointer;
+    margin-right: 6%;
 }
 
 .image0 img{
@@ -189,18 +190,20 @@
     margin-left: 12%;
 }
 
-
+.textos1caixa4 {
+    width: 89.7%;
+}
 
 .texto1caixa4 {
     font-size: 230%;
     font-weight: 600;
-    width: 90%;
+    width: 100%;
 }
 
 .texto2caixa4 {
     background-color: var(--color2);
     color: var(--color1);
-    width: 71.5%;
+    width: 79.5%;
     margin-top: 1.5%;
     margin-bottom: 8%;
     cursor: pointer;
@@ -211,12 +214,16 @@
 }
 
 .texto2caixa4 p {
-    margin-top: 3%;
-    font-size: 175%;
+    margin-top: 5%;
+    font-size: 155%;
+}
+
+.image1caixa4  {
+    width: 90%;
 }
 
 .image1caixa4 img {
-    width: 90%;
+    width: 100%;
 }
 
 .filha2caixa4 {
@@ -226,6 +233,9 @@
 
 .filha2caixa4 img {
     width: 97.5%;
+    height: 98.7%;
+    position: relative;
+    margin-left: -7.5%;
 }
 
 footer {
@@ -250,10 +260,10 @@ footer {
 }
 
 .boxFooter2 {
-    margin-left: 18%;
+    margin-left: 22.2%;
     margin-top: 5%;
     color: var(--color1);
-    font-size: 125%;
+    font-size: 105%;
 }
 
 .categorias {
@@ -286,10 +296,10 @@ footer {
 }
 
 .boxFooter3 {
-    margin-left: 10%;
+    margin-left: 8.5%;
     margin-top: 5%;
     color: var(--color1);
-    font-size: 125%;
+    font-size: 105%;
     margin-bottom: 4%;
     width: 16.5%;
 }
